@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Concept 1: The Cloche, Perfected. Solid filled cloche on the berry tile. -->
+  <rect width="100" height="100" rx="22" fill="#DE5A83"/>
+  <g fill="#FFFFFF">
+    <path d="M19 65.5 A31 27 0 0 1 81 65.5 Z"/>
+    <rect x="47.6" y="33.5" width="4.8" height="6"/>
+    <circle cx="50" cy="30.5" r="4.6"/>
+    <rect x="13" y="69" width="74" height="6.5" rx="3.25"/>
+  </g>
+</svg>
